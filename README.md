@@ -1,4 +1,5 @@
 # Pokemon Zone Exporter
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I made this script for you if you don't want to have to type in card counts by hand anymore. By automating the data export, it connects [pokemon-zone.com](https://www.pokemon-zone.com) with the tracker at [tcgpocketcollectiontracker.com](https://tcgpocketcollectiontracker.com).
 

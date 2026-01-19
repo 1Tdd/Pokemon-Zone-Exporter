@@ -10,6 +10,7 @@
 // @homepageURL  https://github.com/1Tdd/Pokemon-Zone-Exporter
 // @updateURL    https://github.com/1Tdd/Pokemon-Zone-Exporter/releases/latest/download/PokemonZoneExporter.user.js
 // @downloadURL  https://github.com/1Tdd/Pokemon-Zone-Exporter/releases/latest/download/PokemonZoneExporter.user.js
+// @license      MIT
 // ==/UserScript==
 
 (function () {
